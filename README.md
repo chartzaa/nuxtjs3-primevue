@@ -1,6 +1,11 @@
-# Nuxt 3 Minimal Starter
+# Current Module
 
+Nuxtjs 3
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+
+Primevue 4
+
+Look at the [Primevue 4 documentation](https://primevue.org/nuxt) to learn more.
 
 ## Setup
 
